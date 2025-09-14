@@ -4,6 +4,7 @@ import { Navigation, Pagination, Autoplay } from "swiper/modules";
 import gymItems from "../../data/gym.json";
 import "swiper/css";
 import "swiper/css/navigation";
+import { Link } from "react-router-dom";
 import "swiper/css/pagination";
 
 const ProductSlide1 = () => {
@@ -138,9 +139,9 @@ const ProductSlide1 = () => {
 
       {/* View All Button */}
       <div className="text-center mt-12">
-        <button className="bg-indigo-600 text-white px-8 py-3 rounded-full font-medium hover:bg-indigo-700 transition-all shadow-md">
+        <Link to="/gym" className="bg-indigo-600 text-white px-8 py-3 rounded-full font-medium hover:bg-indigo-700 transition-all shadow-md">
           View All Gym Products
-        </button>
+        </Link>
       </div>
     </div>
   );

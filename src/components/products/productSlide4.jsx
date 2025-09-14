@@ -22,7 +22,7 @@ const ProductSlide4= () => {
       {/* Section header */}
       <div className="text-center mb-12">
         <h2 className="text-3xl font-bold text-gray-900 mb-2">
-         Anime Collection
+        Oversized Collection
         </h2>
         <p className="text-base text-gray-500">
           Premium workout gear designed for performance and style
@@ -31,7 +31,7 @@ const ProductSlide4= () => {
 
       {/* Swiper */}
       <Swiper
-        modules={[Navigation, Pagination, Autoplay]}
+        modules={[Navigation,  Autoplay]}
         spaceBetween={24}
         slidesPerView={1}
         breakpoints={{

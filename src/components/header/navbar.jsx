@@ -185,7 +185,7 @@ const Navbar = () => {
       </div>
 
       {/* Add padding to content to account for fixed navbars */}
-      <div className="pt-16 pb-16 md:pb-0"></div>
+      <div className="pt-16 pb-2"></div>
     </>
   );
 };

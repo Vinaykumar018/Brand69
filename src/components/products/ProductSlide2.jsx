@@ -5,6 +5,7 @@ import animeItems from "../../data/anime.json";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
+import { Link } from "react-router-dom";
 
 const ProductSlide2 = () => {
   const [contactVisible, setContactVisible] = useState({});
@@ -138,9 +139,9 @@ const ProductSlide2 = () => {
 
       {/* View All Button */}
       <div className="text-center mt-12">
-        <button className="bg-indigo-600 text-white px-8 py-3 rounded-full font-medium hover:bg-indigo-700 transition-all shadow-md">
-          View All Gym Products
-        </button>
+        <Link to="/anime" className="bg-indigo-600 text-white px-8 py-3 rounded-full font-medium hover:bg-indigo-700 transition-all shadow-md">
+          View All Anime Products
+        </Link>
       </div>
     </div>
   );
