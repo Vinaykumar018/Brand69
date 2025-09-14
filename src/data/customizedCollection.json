@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Personalized Name T-Shirt",
+    "price": 29.99,
+    "category": "customized",
+    "description": "Add your name in bold letters for a unique, personal touch",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=101",
+    "backImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=101"
+  },
+  {
+    "id": 2,
+    "name": "Custom Photo Tee",
+    "price": 32.99,
+    "category": "customized",
+    "description": "Upload your favorite photo for a one-of-a-kind T-shirt",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=102",
+    "backImage": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=102"
+  },
+  {
+    "id": 3,
+    "name": "Custom Quote T-Shirt",
+    "price": 27.99,
+    "category": "customized",
+    "description": "Choose your favorite quote to inspire or motivate",
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f970b74b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=103",
+    "backImage": "https://images.unsplash.com/photo-1583743814966-8936f970b74b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=103"
+  },
+  {
+    "id": 4,
+    "name": "Personalized Zodiac Tee",
+    "price": 30.99,
+    "category": "customized",
+    "description": "Show off your zodiac sign with a custom constellation design",
+    "image": "https://images.unsplash.com/photo-1516728778615-2d590ea1c6d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=104",
+    "backImage": "https://images.unsplash.com/photo-1516728778615-2d590ea1c6d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=104"
+  },
+  {
+    "id": 5,
+    "name": "Custom Team Logo T-Shirt",
+    "price": 28.99,
+    "category": "customized",
+    "description": "Design a T-shirt with your team's logo and colors",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=105",
+    "backImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=105"
+  },
+  {
+    "id": 6,
+    "name": "Custom Pet Portrait Tee",
+    "price": 31.99,
+    "category": "customized",
+    "description": "Feature your furry friend with a custom pet illustration",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=106",
+    "backImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=106"
+  },
+  {
+    "id": 7,
+    "name": "Personalized Gamer Tag T-Shirt",
+    "price": 26.99,
+    "category": "customized",
+    "description": "Showcase your gaming alias with a bold, custom design",
+    "image": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=107",
+    "backImage": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=107"
+  },
+  {
+    "id": 8,
+    "name": "Custom Family Reunion Tee",
+    "price": 29.99,
+    "category": "customized",
+    "description": "Create a unique design for your family gathering",
+    "image": "https://images.unsplash.com/photo-1516728778615-2d590ea1c6d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=108",
+    "backImage": "https://images.unsplash.com/photo-1516728778615-2d590ea1c6d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=108"
+  },
+  {
+    "id": 9,
+    "name": "Personalized Art T-Shirt",
+    "price": 33.99,
+    "category": "customized",
+    "description": "Turn your artwork or sketch into a wearable masterpiece",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=109",
+    "backImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=109"
+  },
+  {
+    "id": 10,
+    "name": "Custom Event Tee",
+    "price": 27.99,
+    "category": "customized",
+    "description": "Commemorate your special event with a tailored design",
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f970b74b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=110",
+    "backImage": "https://images.unsplash.com/photo-1583743814966-8936f970b74b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=110"
+  },
+  {
+    "id": 11,
+    "name": "Personalized Monogram T-Shirt",
+    "price": 28.99,
+    "category": "customized",
+    "description": "Add your initials in a stylish monogram design",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=111",
+    "backImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=111"
+  },
+  {
+    "id": 12,
+    "name": "Custom Travel Memory Tee",
+    "price": 30.99,
+    "category": "customized",
+    "description": "Celebrate your travels with a custom destination graphic",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=112",
+    "backImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=112"
+  },
+  {
+    "id": 13,
+    "name": "Personalized Hobby T-Shirt",
+    "price": 26.99,
+    "category": "customized",
+    "description": "Showcase your favorite hobby with a custom design",
+    "image": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=113",
+    "backImage": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=113"
+  },
+  {
+    "id": 14,
+    "name": "Custom Birthday Tee",
+    "price": 29.99,
+    "category": "customized",
+    "description": "Celebrate your special day with a personalized birthday design",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=114",
+    "backImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=114"
+  },
+  {
+    "id": 15,
+    "name": "Personalized Music Fan Tee",
+    "price": 27.99,
+    "category": "customized",
+    "description": "Design a T-shirt with your favorite band or song lyrics",
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f970b74b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=115",
+    "backImage": "https://images.unsplash.com/photo-1583743814966-8936f970b74b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=115"
+  },
+  {
+    "id": 16,
+    "name": "Custom Sports Fan T-Shirt",
+    "price": 31.99,
+    "category": "customized",
+    "description": "Support your team with a custom player or jersey design",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=116",
+    "backImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=116"
+  },
+  {
+    "id": 17,
+    "name": "Personalized Meme Tee",
+    "price": 26.99,
+    "category": "customized",
+    "description": "Turn your favorite meme into a wearable statement",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=117",
+    "backImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=117"
+  },
+  {
+    "id": 18,
+    "name": "Custom Anniversary T-Shirt",
+    "price": 30.99,
+    "category": "customized",
+    "description": "Mark your milestone with a personalized anniversary design",
+    "image": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=118",
+    "backImage": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=118"
+  },
+  {
+    "id": 19,
+    "name": "Personalized Superhero Tee",
+    "price": 32.99,
+    "category": "customized",
+    "description": "Create your own superhero logo or character design",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=119",
+    "backImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=119"
+  },
+  {
+    "id": 20,
+    "name": "Custom Inspirational T-Shirt",
+    "price": 28.99,
+    "category": "customized",
+    "description": "Design a tee with your unique motivational message",
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f970b74b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&seed=120",
+    "backImage": "https://images.unsplash.com/photo-1583743814966-8936f970b74b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80&rot=90&seed=120"
+  }
+]

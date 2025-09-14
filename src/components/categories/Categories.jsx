@@ -42,13 +42,13 @@ const Categories = () => {
   ];
 
   return (
-    <section className="py-16 bg-gradient-to-br from-gray-50 to-gray-100 font-['Inter']">
+    <section className="py-16 bg-gradient-to-br from-gray-50 to-gray-100 ">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-light text-gray-800 mb-4 tracking-wide">
+          <h2 className="text-4xl font-bold text-gray-800 mb-4 tracking-wide">
             Shop by Category
           </h2>
-          <p className="text-lg text-gray-600 max-w-3xl mx-auto font-light leading-relaxed">
+          <p className="text-lg text-gray-600 max-w-3xl mx-auto font-medium leading-relaxed">
             Discover our diverse collection of trendy and comfortable clothing
           </p>
         </div>
@@ -70,14 +70,12 @@ const Categories = () => {
                 </div>
                 <div className="absolute inset-0 bg-gradient-to-b from-transparent to-black opacity-0 group-hover:opacity-20 transition-opacity duration-500 rounded-full"></div>
               </div>
-              <h3 className="font-normal text-gray-700 group-hover:text-purple-600 transition-colors duration-500 text-base sm:text-lg tracking-wide">
+              <h3 className="font-semibold text-gray-700 group-hover:text-purple-600 transition-colors duration-500 text-base sm:text-lg tracking-wide">
                 {category.name}
               </h3>
             </Link>
           ))}
         </div>
-        
-       
       </div>
     </section>
   );

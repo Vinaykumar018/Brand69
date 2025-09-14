@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aiko",
+    "image": "https://i.ibb.co/7r3wV3f/review1.jpg",
+    "review": "Absolutely love this anime T-shirt! Super comfy and fits perfectly."
+  },
+  {
+    "id": 2,
+    "name": "Kenji",
+    "image": "https://i.ibb.co/3sZ2P4K/review2.jpg",
+    "review": "Great quality and vibrant print. Friends keep asking where I got it!"
+  },
+  {
+    "id": 3,
+    "name": "Yumi",
+    "image": "https://i.ibb.co/NK0dF2L/review3.jpg",
+    "review": "Soft material and oversized fit is perfect for lounging."
+  },
+  {
+    "id": 4,
+    "name": "Hiro",
+    "image": "https://i.ibb.co/5Mj8K6P/review4.jpg",
+    "review": "The print is even better in real life. Definitely buying more!"
+  },
+  {
+    "id": 5,
+    "name": "Sakura",
+    "image": "https://i.ibb.co/1Xh0V9J/review5.jpg",
+    "review": "Super comfy, stylish, and perfect for anime conventions."
+  },
+  {
+    "id": 6,
+    "name": "Riku",
+    "image": "https://i.ibb.co/6rP3L7N/review6.jpg",
+    "review": "Good quality T-shirt, exactly as described. Highly recommend."
+  },
+  {
+    "id": 7,
+    "name": "Mika",
+    "image": "https://i.ibb.co/9sf3K6R/review7.jpg",
+    "review": "My favorite shirt now. Everyone compliments the design!"
+  },
+  {
+    "id": 8,
+    "name": "Takumi",
+    "image": "https://i.ibb.co/5tP2Q7X/review8.jpg",
+    "review": "Comfortable and durable. Washes well without fading."
+  },
+  {
+    "id": 9,
+    "name": "Nao",
+    "image": "https://i.ibb.co/vhK8Q1D/review9.jpg",
+    "review": "Great oversized fit and very stylish. Love it!"
+  },
+  {
+    "id": 10,
+    "name": "Ren",
+    "image": "https://i.ibb.co/NtP4L7V/review10.jpg",
+    "review": "The perfect T-shirt for casual wear and anime lovers alike."
+  }
+]

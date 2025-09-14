@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Oversized Classic White Tee",
+    "price": 24.99,
+    "category": "oversized",
+    "description": "Loose fit oversized cotton T-shirt for everyday comfort",
+    "image": "https://i.ibb.co/5cR4jQG/oversized1.jpg",
+    "backImage": "https://i.ibb.co/LpN1hJH/oversized1-back.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Oversized Black Streetwear Tee",
+    "price": 26.99,
+    "category": "oversized",
+    "description": "Trendy streetwear style oversized black T-shirt",
+    "image": "https://i.ibb.co/7QC4VjT/oversized2.jpg",
+    "backImage": "https://i.ibb.co/Tq5qQH7/oversized2-back.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Oversized Graphic Print Tee",
+    "price": 28.99,
+    "category": "oversized",
+    "description": "Bold graphic oversized T-shirt for casual wear",
+    "image": "https://i.ibb.co/x3L7tFh/oversized3.jpg",
+    "backImage": "https://i.ibb.co/s5f6GkQ/oversized3-back.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Oversized Tie-Dye Tee",
+    "price": 29.99,
+    "category": "oversized",
+    "description": "Colorful tie-dye oversized T-shirt for relaxed vibes",
+    "image": "https://i.ibb.co/nC7r9hB/oversized4.jpg",
+    "backImage": "https://i.ibb.co/7Kq1vF5/oversized4-back.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Oversized Vintage Band Tee",
+    "price": 27.99,
+    "category": "oversized",
+    "description": "Retro band print oversized T-shirt for music lovers",
+    "image": "https://i.ibb.co/y5H7X2K/oversized5.jpg",
+    "backImage": "https://i.ibb.co/w7bD9ZV/oversized5-back.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Oversized Longline Tee",
+    "price": 30.99,
+    "category": "oversized",
+    "description": "Extra long oversized T-shirt for a streetwear look",
+    "image": "https://i.ibb.co/6wH9k2B/oversized6.jpg",
+    "backImage": "https://i.ibb.co/k1s7L3J/oversized6-back.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Oversized Minimalist Tee",
+    "price": 25.99,
+    "category": "oversized",
+    "description": "Simple oversized T-shirt with minimal design",
+    "image": "https://i.ibb.co/Fq8J6Xt/oversized7.jpg",
+    "backImage": "https://i.ibb.co/vw6kQ2D/oversized7-back.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Oversized Striped Tee",
+    "price": 28.99,
+    "category": "oversized",
+    "description": "Horizontal striped oversized T-shirt for casual style",
+    "image": "https://i.ibb.co/jL7f1vC/oversized8.jpg",
+    "backImage": "https://i.ibb.co/YZk4n5J/oversized8-back.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Oversized Pocket Tee",
+    "price": 26.99,
+    "category": "oversized",
+    "description": "Oversized T-shirt with chest pocket detail",
+    "image": "https://i.ibb.co/Fs9K7tH/oversized9.jpg",
+    "backImage": "https://i.ibb.co/2dR8VbC/oversized9-back.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Oversized Acid Wash Tee",
+    "price": 29.99,
+    "category": "oversized",
+    "description": "Acid wash oversized shirt for retro streetwear vibes",
+    "image": "https://i.ibb.co/9hD8LkT/oversized10.jpg",
+    "backImage": "https://i.ibb.co/5M4h7zV/oversized10-back.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Oversized Bold Logo Tee",
+    "price": 27.99,
+    "category": "oversized",
+    "description": "Oversized T-shirt with prominent brand logo print",
+    "image": "https://i.ibb.co/H7R9kV5/oversized11.jpg",
+    "backImage": "https://i.ibb.co/3k9P2Jh/oversized11-back.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Oversized Camouflage Tee",
+    "price": 28.99,
+    "category": "oversized",
+    "description": "Camouflage print oversized shirt for casual and street style",
+    "image": "https://i.ibb.co/b2c9xFv/oversized12.jpg",
+    "backImage": "https://i.ibb.co/8Nm6r9Q/oversized12-back.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Oversized Roll Sleeve Tee",
+    "price": 26.99,
+    "category": "oversized",
+    "description": "Casual oversized T-shirt with roll-up sleeve detail",
+    "image": "https://i.ibb.co/5xV9Z2M/oversized13.jpg",
+    "backImage": "https://i.ibb.co/2vQ4kP7/oversized13-back.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Oversized Hoodie Tee",
+    "price": 32.99,
+    "category": "oversized",
+    "description": "Oversized T-shirt hoodie style for a cozy look",
+    "image": "https://i.ibb.co/k6h7Q9Z/oversized14.jpg",
+    "backImage": "https://i.ibb.co/Ws9kV7L/oversized14-back.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Oversized Graphic Skull Tee",
+    "price": 29.99,
+    "category": "oversized",
+    "description": "Bold skull graphic on oversized streetwear T-shirt",
+    "image": "https://i.ibb.co/7gH5X2M/oversized15.jpg",
+    "backImage": "https://i.ibb.co/4rQ7K5D/oversized15-back.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Oversized Vintage Logo Tee",
+    "price": 27.99,
+    "category": "oversized",
+    "description": "Retro-inspired logo print oversized T-shirt",
+    "image": "https://i.ibb.co/Z6b9kWq/oversized16.jpg",
+    "backImage": "https://i.ibb.co/yN7qK8H/oversized16-back.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Oversized Acid Stripe Tee",
+    "price": 28.99,
+    "category": "oversized",
+    "description": "Unique acid stripe pattern on oversized T-shirt",
+    "image": "https://i.ibb.co/0Y9kV7N/oversized17.jpg",
+    "backImage": "https://i.ibb.co/Fn7qK9T/oversized17-back.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Oversized Monochrome Tee",
+    "price": 26.99,
+    "category": "oversized",
+    "description": "Simple oversized monochrome design for everyday wear",
+    "image": "https://i.ibb.co/3V8kP4H/oversized18.jpg",
+    "backImage": "https://i.ibb.co/7bQ4K8P/oversized18-back.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Oversized Pastel Tee",
+    "price": 29.99,
+    "category": "oversized",
+    "description": "Soft pastel oversized T-shirt for casual and comfy looks",
+    "image": "https://i.ibb.co/2yP9K7R/oversized19.jpg",
+    "backImage": "https://i.ibb.co/5nQ4K2M/oversized19-back.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Oversized Relaxed Fit Tee",
+    "price": 30.99,
+    "category": "oversized",
+    "description": "Relaxed fit oversized cotton T-shirt for all-day comfort",
+    "image": "https://i.ibb.co/8N7kP5V/oversized20.jpg",
+    "backImage": "https://i.ibb.co/1vQ4K9H/oversized20-back.jpg"
+  }
+]

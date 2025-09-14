@@ -1,0 +1,17 @@
+/* Tailwind CSS is assumed to be included. Add these custom styles if needed. */
+.font-poppins {
+  font-family: 'Poppins', sans-serif;
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-in;
+}
+
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-in;
+}
