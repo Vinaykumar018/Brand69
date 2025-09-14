@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { FaTshirt, FaInstagram, FaFacebookF, FaWhatsapp, FaPhoneAlt } from "react-icons/fa";
+import aboutImg from '/assets/about/levelsix9_14040624_190224342.jpg';
 
 const About = () => {
   return (
@@ -22,6 +23,21 @@ const About = () => {
           <p className="text-gray-600 text-sm sm:text-base max-w-3xl mx-auto leading-relaxed">
             Founded with a passion for self-expression, LevelSix9 is more than just a clothing brand—it's a lifestyle. We believe in empowering individuals to embrace their unique style through high-quality, custom-printed T-shirts. Based at Kakwan Road Crossing, near Ganesh Hospital, we craft apparel that resonates with boldness and creativity.
           </p>
+        </div>
+
+        {/* Our Journey */}
+        <div className="mb-12">
+          <h2 className="text-2xl sm:text-3xl font-bold text-gray-800 text-center mb-6">Our Journey</h2>
+          <div className="flex flex-col items-center">
+            <img
+              src={aboutImg}
+              alt="LevelSix9 Journey"
+              className="w-full max-w-full sm:max-w-md rounded-lg shadow-md mb-4"
+            />
+            <p className="text-gray-600 text-sm sm:text-base max-w-3xl mx-auto text-center leading-relaxed">
+              From a small idea to a bold vision, LevelSix9 has grown into a brand that celebrates individuality and style. This image captures the essence of our journey—creating premium T-shirts that inspire confidence and creativity.
+            </p>
+          </div>
         </div>
 
         {/* Mission */}
@@ -82,15 +98,15 @@ const About = () => {
               <p className="text-sm text-gray-600 mb-2">
                 <span className="font-semibold">Phone:</span>{" "}
                 <a
-                  href="tel:+919336713280"
+                  href="tel:+9186046 03379"
                   className="text-yellow-600 hover:text-yellow-500 transition-colors"
                 >
-                  +91 9336713280
+                  +91 86046 03379
                 </a>
               </p>
               <div className="flex justify-center gap-4 text-xl mt-4">
                 <a
-                  href="https://www.instagram.com/levelsix9?igsh=MWJ4eXhhbDQ5aGJvMw%3D%3D&utm_source=qr"
+                  href="https://www.instagram.com/_abhishek_katiyar_?igsh=MzhwdWY4ZTVoZ2ky"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 hover:text-pink-500 transition-colors"
@@ -105,14 +121,17 @@ const About = () => {
                 >
                   <FaFacebookF />
                 </a>
-                <a
-                  href="https://wa.me/919336713280"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-600 hover:text-green-500 transition-colors"
-                >
-                  <FaWhatsapp />
-                </a>
+<a
+  href="https://api.whatsapp.com/send/?phone=918604603379&text=Hi%20I%20am%20interested%20in%20your%20T-shirts!&type=phone_number&app_absent=0"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-gray-600 hover:text-green-500 transition-colors"
+>
+  <FaWhatsapp />
+</a>
+
+
+
               </div>
             </div>
           </div>

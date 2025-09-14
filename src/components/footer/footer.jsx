@@ -15,7 +15,7 @@ const Footer = () => {
         <div>
           <h2 className="text-xl sm:text-2xl font-bold mb-3 text-yellow-300">LevelSix9</h2>
           <p className="text-sm text-gray-300 mb-3">
-            Stay Bold, Stay Stylish ✨  
+            Stay Bold, Stay Stylish ✨
             We print & sell premium T-shirts designed for you.
           </p>
           <p className="text-xs text-gray-400">
@@ -64,10 +64,10 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="tel:+919336713280"
+                href="tel:+9186046 03379"
                 className="flex items-center gap-2 hover:text-yellow-500 transition-colors"
               >
-                <FaPhoneAlt /> +91 9336713280
+                <FaPhoneAlt /> +91 86046 03379
               </a>
             </li>
             <li className="text-gray-300">
@@ -97,7 +97,7 @@ const Footer = () => {
               <FaFacebookF />
             </a>
             <a
-              href="https://wa.me/919336713280"
+              href="https://wa.me/9186046 03379"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-green-500 transition-colors"

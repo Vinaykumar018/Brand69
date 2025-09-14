@@ -42,10 +42,10 @@ const Contact = () => {
                 <div>
                   <p className="text-sm font-semibold text-gray-800">Phone</p>
                   <a
-                    href="tel:+919336713280"
+                    href="tel:+9186046 03379"
                     className="text-yellow-600 hover:text-yellow-500 transition-colors"
                   >
-                    +91 9336713280
+                    +91 86046 03379
                   </a>
                 </div>
               </div>
@@ -78,7 +78,7 @@ const Contact = () => {
                       <FaFacebookF className="text-xl" />
                     </a>
                     <a
-                      href="https://wa.me/919336713280"
+                      href="https://wa.me/9186046 03379"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-gray-600 hover:text-green-500 transition-colors"

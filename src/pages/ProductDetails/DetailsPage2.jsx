@@ -80,18 +80,18 @@ const ProductDetails2 = () => {
               <div className="absolute inset-0 bg-black bg-opacity-90 flex items-center justify-center p-4 animate-fadeIn">
                 <div className="text-center space-y-3">
                   <a
-                    href="https://wa.me/9336713280"
+                    href="https://wa.me/86046 03379"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition-all"
                   >
-                    <span className="mr-2">💬</span> WhatsApp: 9336713280
+                    <span className="mr-2">💬</span> WhatsApp: 86046 03379
                   </a>
                   <a
-                    href="tel:9336713280"
+                    href="tel:86046 03379"
                     className="flex items-center bg-blue-500 text-white px-4 py-2 rounded-full hover:bg-blue-600 transition-all"
                   >
-                    <span className="mr-2">📞</span> Call: 9336713280
+                    <span className="mr-2">📞</span> Call: 86046 03379
                   </a>
                 </div>
               </div>

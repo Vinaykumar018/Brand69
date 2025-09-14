@@ -7,28 +7,28 @@ const Categories = () => {
       id: 1,
       name: "Gym Wear",
       image:
-        "https://images.unsplash.com/photo-1593079831268-3381b0db4a77?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "https://img.freepik.com/free-vector/bodybuilders-fitness-club-logo_1284-45671.jpg?semt=ais_incoming&w=740&q=80",
       link: "/gym",
     },
     {
       id: 2,
       name: "Anime",
       image:
-        "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "https://img.freepik.com/free-vector/hand-drawn-designs-streetwear_52683-101924.jpg",
       link: "/anime",
     },
     {
       id: 3,
       name: "Customized",
       image:
-        "https://images.unsplash.com/photo-1618519764620-7403abdbdfe9?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "https://cdn0.iconfinder.com/data/icons/design-violet-vol-2/512/shirt-design-512.png",
       link: "/customized",
     },
     {
       id: 4,
       name: "Oversized",
       image:
-        "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "https://www.shutterstock.com/image-vector/mockup-tshirt-oversize-unisex-design-260nw-2486063749.jpg",
       link: "/oversized",
     },
   ];

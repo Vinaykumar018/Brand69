@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Sun, Moon, Menu, X, Home, User, Mail, Shirt } from 'lucide-react';
 import { useToggle } from '../../context/ToggleContext'; // Adjust path as needed
+import logo from '../../assets/levelsix9_14040624_190241504.jpg'
 
 const Navbar = () => {
   const { isMenuOpen, toggleMenu, isDarkMode, toggleTheme } = useToggle();
@@ -18,12 +19,15 @@ const Navbar = () => {
           <div className="flex items-center justify-between h-16">
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center">
-              <Link to="/" className="flex items-center">
-                <div className="h-10 w-10 rounded-lg bg-gradient-to-r from-yellow-400 to-yellow-600 flex items-center justify-center text-black font-bold">
-                  L6
-                </div>
-                <span className="ml-2 text-xl font-bold">LevelSix9</span>
-              </Link>
+             <Link to="/" className="flex items-center">
+  <img
+    src={logo}  // replace with your logo path
+    alt="LevelSix9 Logo"
+    className="h-10 w-10 rounded-lg object-cover"
+  />
+  <span className="ml-2 text-xl font-bold text-white">LevelSix9</span>
+</Link>
+
             </div>
 
             {/* Categories */}

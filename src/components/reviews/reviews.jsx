@@ -6,7 +6,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 
-import reviews from "../../data/reviews.json";
+import reviews from "../../data/reviews";
 
 const borderStyles = [
   "border-pink-400 bg-gradient-to-br from-pink-50 via-white to-pink-100",
